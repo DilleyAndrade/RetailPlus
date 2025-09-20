@@ -98,10 +98,3 @@ Este projeto implementa um pipeline de dados simples para simular o processo de 
 - A pasta `diagrams/` pode ser usada para armazenar diagramas ER e de modelo dimensional criados durante o projeto.
 - Este projeto serve como base para estudos de engenharia de dados e modelagem de banco de dados.
 
----
-
-## 📈 Próximos Passos (opcional)
-
-- Automatizar execução do pipeline com ferramentas de orquestração (Airflow ou Prefect)
-- Criar visualizações com ferramentas de BI (Power BI, Metabase, etc.)
-- Adicionar testes de qualidade de dados
